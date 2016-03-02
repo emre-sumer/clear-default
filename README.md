@@ -1,10 +1,10 @@
 #clear-default
 
-If you don't use placeholder and giving your default values to your inputs / textareas. ClearDefault Cleas it to its default value when focus.
+If there is no placeholder in your text inputs / textareas and you give your default values to your text inputs / textareas; clearDefault clears it to its default value when you focus.
 
 ##How is it working?
 
-Just copy the clearDefault.js to your workplace. And then call it in your page or in your js file.
+Just copy the clearDefault.js to your workplace. Add it to your html file and then call it in your page or in your js file.
 
 ```js
 				
@@ -12,7 +12,7 @@ Just copy the clearDefault.js to your workplace. And then call it in your page o
 
 ```
 
-You can give tag names or classes or ID's.
+You can select tags,classes or ID's.
 
 I recommend using it with document.ready
 ```js
